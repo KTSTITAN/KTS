@@ -1,6 +1,6 @@
 # KTS
-<h1 align="center">ffSanta</h1>
-<h3 align="center">From ___ University</h3>
+<h1 align="center"></h1>
+<h3 align="center">From Thammasat University</h3>
 
 <h3 align="left">Connect with me: email...</h3>
 <p align="left">
